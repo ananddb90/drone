@@ -2,6 +2,8 @@
 
 #-------------------------------------------------------------------------------------------------------
 # https://stackoverflow.com/questions/28308057/motion-detector-for-moving-camera-on-opencv
+# https://stackoverflow.com/questions/28632533/opencv-image-stabilization
+# http://answers.opencv.org/question/115820/python-real-time-image-stabilization-with-optical-flow/
 #
 # In order to be able to differentiate between camera motion and scene motion, you need to simultaneously estimate the pose change of the camera # between two frames and the scene geometry in those frames.
 #
